@@ -1,0 +1,54 @@
+{
+  "projeto": "Segurança Química — Persea Growers",
+  "versao": "v7 — pesquisa documental",
+  "data": "2026-10-14",
+  "stock_referencia": "2026-09-30",
+  "resultado": "OK",
+  "contagens": {
+    "produtos": 83,
+    "em_stock": 63,
+    "historico_sem_stock": 20,
+    "complete": 45,
+    "partial": 5,
+    "pending": 33,
+    "paginas_produto": 83,
+    "referencias_documentos_locais_webapp": 29,
+    "urls_externas_unicas": 50,
+    "FDS_e_Seguranca": 23,
+    "Fichas_Tecnicas": 21,
+    "Rotulos_e_Fotos": 44,
+    "Links_FDS_Externas": 51,
+    "cartoes_prototipo": 6
+  },
+  "testes": {
+    "83_produtos": true,
+    "stock_63_historico_20": true,
+    "estados_45_5_33": true,
+    "45_complete_com_safety_fonte_traducao": true,
+    "links_locais_sem_falhas": true,
+    "83_paginas_individuais": true
+  },
+  "issues": [],
+  "missing_local_documents": [],
+  "duplicados_por_hash": [
+    {
+      "sha256": "6cb638002adb05b35186ca6c0a951f5d6354d86cb646d2b8af5d14605332f296",
+      "paths": [
+        "documentos/FDS_e_Seguranca/Roundup ultramax.pdf",
+        "documentos/FDS_e_Seguranca/Roundup%20ultramax.pdf"
+      ]
+    },
+    {
+      "sha256": "3c5ade6cd9f53e4ee17a4bcf44300da375be2492d0cbf042ef5bceaa3cf4cb7e",
+      "paths": [
+        "documentos/Fichas_Tecnicas/ALEXIN 75 LS - FT v6 (Fosfito Potásico).pdf",
+        "documentos/Fichas_Tecnicas/ALEXIN 75 LS - FT v6 (1).pdf"
+      ]
+    }
+  ],
+  "notas": [
+    "Links externos são registados no master, em LINKS_EXTERNOS_V7.* e em atalhos .url; uma FDS externa não é convertida/reconstruída em PDF quando o ficheiro original não foi guardado localmente.",
+    "As traduções ES/EN/NE/HI são apoio operacional; FDS e rótulo oficiais prevalecem.",
+    "Cartões físicos são apenas em português."
+  ]
+}

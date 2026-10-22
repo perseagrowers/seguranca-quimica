@@ -1,0 +1,12 @@
+{
+  "project": "Segurança Química - Persea Growers",
+  "version": "v8 integração documental Yara",
+  "date": "2026-10-15",
+  "stock_reference": "2026-09-30",
+  "counts": {
+    "partial": 8,
+    "pending": 28,
+    "complete": 47
+  },
+  "note": "Snapshot local não publicado. Apenas referências seguras completas; variantes Yara ficam condicionadas à confirmação do saco/código."
+}

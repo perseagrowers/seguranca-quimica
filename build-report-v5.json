@@ -1,0 +1,15 @@
+{
+  "version": "v5",
+  "products": 83,
+  "complete": 33,
+  "partial": 8,
+  "pending": 42,
+  "complete_with_safety": 33,
+  "new_safety_records": 13,
+  "verified": 11,
+  "verified_with_source_limit": 2,
+  "source_limit": [
+    "MP0000161",
+    "MP0000202"
+  ]
+}

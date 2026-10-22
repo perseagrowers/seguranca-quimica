@@ -1,0 +1,12 @@
+{
+  "project": "Segurança Química — Persea Growers",
+  "version": "v8.1 comprovativos compras",
+  "date": "2026-10-15",
+  "counts": {
+    "partial": 8,
+    "pending": 28,
+    "complete": 47
+  },
+  "stock_reference": "2026-09-30",
+  "publicity": "snapshot local, não publicado no GitHub"
+}

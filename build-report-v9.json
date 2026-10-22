@@ -1,0 +1,23 @@
+{
+  "version": "v9",
+  "date": "2026-10-15",
+  "products": 83,
+  "complete": 54,
+  "partial": 8,
+  "pending": 21,
+  "structured_complete_safety": 54,
+  "newly_complete": [
+    "MP0000005",
+    "MP0000050",
+    "MP0000062",
+    "MP0000126",
+    "MP0000173",
+    "MP0000219",
+    "MP0000331"
+  ],
+  "missing_local_document_links": [],
+  "stock_unchanged": true,
+  "qr_unchanged": true,
+  "webapp_published": false,
+  "new_source_evidence_count": 90
+}

@@ -1,0 +1,11 @@
+{
+  "release": "v10",
+  "date": "2026-10-22",
+  "summary": {
+    "complete": 76,
+    "partial": 4,
+    "pending": 3
+  },
+  "qr_codes_permanent": true,
+  "status": "READY_FOR_DEPLOY_NOT_DEPLOYED"
+}
