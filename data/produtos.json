@@ -6,19 +6,21 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 1157.0,
-        "used_2026": 12938.0
+        "stock": 932,
+        "used_2026": 14563,
+        "unit": "KG"
       },
       "Finca Tropic": {
-        "stock": 1274.8000000000002,
-        "used_2026": 14985.199999999999
+        "stock": 4.8,
+        "used_2026": 19680.2,
+        "unit": "KG"
       }
     },
     "name": "YaraTera Calcinit",
     "manufacturer": "Yara",
     "category": "Fertilizante",
-    "stock_total": 2431.8,
-    "used_2026_total": 27923.2,
+    "stock_total": 936.8,
+    "used_2026_total": 34243.2,
     "in_stock": true,
     "history_only": false,
     "documentation_status": "complete",
@@ -97,7 +99,8 @@
     "safety_summary_status": "documented_with_note",
     "safety_summary_note": "Três FDS Yara com mesmas advertências; referência exata do saco não determinada. Resumo em PT para operação; não substitui a fonte oficial. Rever antes de imprimir cartões.",
     "safety_source": "Consultar os documentos associados a este MP; prevalecem as FDS e rótulos oficiais.",
-    "safety_schema_version": "v10"
+    "safety_schema_version": "v10",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000003",
@@ -106,19 +109,21 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 1746.0,
-        "used_2026": 15054.0
+        "stock": 0,
+        "used_2026": 16800,
+        "unit": "KG"
       },
       "Finca Tropic": {
-        "stock": 626.8000000000002,
-        "used_2026": 13098.2
+        "stock": 1.8,
+        "used_2026": 16423.2,
+        "unit": "KG"
       }
     },
     "name": "YaraTera Amnitra",
     "manufacturer": "Yara",
     "category": "Fertilizante",
-    "stock_total": 2372.8,
-    "used_2026_total": 28152.2,
+    "stock_total": 1.8,
+    "used_2026_total": 33223.2,
     "in_stock": true,
     "history_only": false,
     "documentation_status": "complete",
@@ -172,7 +177,8 @@
     "safety_summary_status": "documented_v10",
     "safety_summary_note": "Resumo em PT para operação; não substitui a fonte oficial. Rever antes de imprimir cartões.",
     "safety_source": "Consultar os documentos associados a este MP; prevalecem as FDS e rótulos oficiais.",
-    "safety_schema_version": "v10"
+    "safety_schema_version": "v10",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000005",
@@ -181,12 +187,14 @@
     "stock_family": "Fitosanitario",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 0
+        "stock": 0,
+        "used_2026": 0,
+        "unit": "LT"
       },
       "Finca Tropic": {
         "stock": 3.1,
-        "used_2026": 0
+        "used_2026": 0,
+        "unit": "LT"
       }
     },
     "name": "Spintor 480 SC",
@@ -280,7 +288,8 @@
       "limitation": "A FDS e o rótulo aplicável ao lote prevalecem; folheto castanheiro 2024 é histórico."
     },
     "safety_summary_status": "complete",
-    "safety_summary_note": "Resumo operacional em português transcrito das secções relevantes da FDS indicada e, quando referido, do rótulo/ficha técnica. A FDS e o rótulo oficiais prevalecem."
+    "safety_summary_note": "Resumo operacional em português transcrito das secções relevantes da FDS indicada e, quando referido, do rótulo/ficha técnica. A FDS e o rótulo oficiais prevalecem.",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000010",
@@ -289,19 +298,21 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 4622.5,
-        "used_2026": 1835.0
+        "stock": 3147.5,
+        "used_2026": 3310,
+        "unit": "KG"
       },
       "Finca Tropic": {
-        "stock": 1100.0,
-        "used_2026": 3925.0
+        "stock": 50,
+        "used_2026": 7850,
+        "unit": "KG"
       }
     },
     "name": "YaraTera Krista SOP",
     "manufacturer": "Yara",
     "category": "Fertilizante",
-    "stock_total": 5722.5,
-    "used_2026_total": 5760.0,
+    "stock_total": 3197.5,
+    "used_2026_total": 11160,
     "in_stock": true,
     "history_only": false,
     "documentation_status": "complete",
@@ -353,7 +364,8 @@
     "safety_summary_status": "documented_v10",
     "safety_summary_note": "Resumo em PT para operação; não substitui a fonte oficial. Rever antes de imprimir cartões.",
     "safety_source": "Consultar os documentos associados a este MP; prevalecem as FDS e rótulos oficiais.",
-    "safety_schema_version": "v10"
+    "safety_schema_version": "v10",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000011",
@@ -362,19 +374,21 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 3000.0,
-        "used_2026": 2600.0
+        "stock": 2500,
+        "used_2026": 3100,
+        "unit": "KG"
       },
       "Finca Tropic": {
-        "stock": 0.0,
-        "used_2026": 2850.0000000000005
+        "stock": 0,
+        "used_2026": 2850,
+        "unit": "KG"
       }
     },
     "name": "Yara MAP — Fosfato Monoamónico",
     "manufacturer": "Yara",
     "category": "Fertilizante",
-    "stock_total": 3000.0,
-    "used_2026_total": 5450.0,
+    "stock_total": 2500,
+    "used_2026_total": 5950,
     "in_stock": true,
     "history_only": false,
     "documentation_status": "complete",
@@ -428,7 +442,8 @@
     "safety_summary_status": "documented_with_note",
     "safety_summary_note": "FDS MAP sem classificação CLP; variantes comerciais arquivadas. Resumo em PT para operação; não substitui a fonte oficial. Rever antes de imprimir cartões.",
     "safety_source": "Consultar os documentos associados a este MP; prevalecem as FDS e rótulos oficiais.",
-    "safety_schema_version": "v10"
+    "safety_schema_version": "v10",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000015",
@@ -438,18 +453,20 @@
     "companies": {
       "Extraissol": {
         "stock": 61.5,
-        "used_2026": 325.0
+        "used_2026": 325,
+        "unit": "KG"
       },
       "Finca Tropic": {
-        "stock": 15.0,
-        "used_2026": 0
+        "stock": 15,
+        "used_2026": 0,
+        "unit": "KG"
       }
     },
     "name": "Optibor TG",
     "manufacturer": "U.S. Borax / Rio Tinto",
     "category": "Fertilizante",
     "stock_total": 76.5,
-    "used_2026_total": 325.0,
+    "used_2026_total": 325,
     "in_stock": true,
     "history_only": false,
     "documentation_status": "complete",
@@ -602,7 +619,8 @@
     },
     "safety_summary_status": "verified",
     "safety_summary_note": "Resumo operacional conferido contra a FDS oficial Rio Tinto associada ao produto. A FDS/rótulo oficial prevalece sempre.",
-    "safety_schema_version": "v6-standard"
+    "safety_schema_version": "v6-standard",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000019",
@@ -611,19 +629,21 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 1429.5,
-        "used_2026": 17498.0
+        "stock": 949.5,
+        "used_2026": 22178,
+        "unit": "KG"
       },
       "Finca Tropic": {
-        "stock": 3300.0,
-        "used_2026": 25153.0
+        "stock": 1100,
+        "used_2026": 31553,
+        "unit": "KG"
       }
     },
     "name": "YaraTera Krista K Plus",
     "manufacturer": "Yara",
     "category": "Fertilizante",
-    "stock_total": 4729.5,
-    "used_2026_total": 42651.0,
+    "stock_total": 2049.5,
+    "used_2026_total": 53731,
     "in_stock": true,
     "history_only": false,
     "documentation_status": "complete",
@@ -799,7 +819,8 @@
     },
     "safety_summary_status": "verified",
     "safety_summary_note": "Resumo operacional H272 revisto quanto às secções 2, 4 e 5 da FDS YaraTera Krista K, revisão 02/06/2023. A antiga FDS Krista K Plus é de outro produto comercial e não integra a documentação operacional deste MP.",
-    "safety_schema_version": "v6-standard"
+    "safety_schema_version": "v6-standard",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000020",
@@ -808,19 +829,21 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 625.0,
-        "used_2026": 200.0
+        "stock": 625,
+        "used_2026": 200,
+        "unit": "KG"
       },
       "Finca Tropic": {
-        "stock": 691.0,
-        "used_2026": 125.0
+        "stock": 691,
+        "used_2026": 125,
+        "unit": "KG"
       }
     },
     "name": "Yara Nitrato de Magnésio",
     "manufacturer": "Yara",
     "category": "Fertilizante",
-    "stock_total": 1316.0,
-    "used_2026_total": 325.0,
+    "stock_total": 1316,
+    "used_2026_total": 325,
     "in_stock": true,
     "history_only": false,
     "documentation_status": "complete",
@@ -941,7 +964,8 @@
     },
     "safety_schema_version": "v6-standard",
     "safety_summary_status": "verified",
-    "safety_summary_note": "Resumo em português extraído das secções 2/4/5/7/8 da FDS indicada; traduções ES/EN/NE/HI de apoio operacional, não substituem FDS e rótulo."
+    "safety_summary_note": "Resumo em português extraído das secções 2/4/5/7/8 da FDS indicada; traduções ES/EN/NE/HI de apoio operacional, não substituem FDS e rótulo.",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000026",
@@ -950,21 +974,23 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 100.0,
-        "used_2026": 1900.0
+        "stock": 0,
+        "used_2026": 2000,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 0.0,
-        "used_2026": 1000.0000000000001
+        "stock": 0,
+        "used_2026": 1000,
+        "unit": "LT"
       }
     },
     "name": "Leonar 15",
     "manufacturer": "",
     "category": "Fertilizante",
-    "stock_total": 100.0,
-    "used_2026_total": 2900.0,
-    "in_stock": true,
-    "history_only": false,
+    "stock_total": 0,
+    "used_2026_total": 3000,
+    "in_stock": false,
+    "history_only": true,
     "documentation_status": "pending",
     "documentation_note": "LEONAR 15 sem FDS do fornecedor. Pedido reiterado Herogra em 16/10/2026.",
     "documents": [],
@@ -979,7 +1005,8 @@
     },
     "permanent_url": "https://perseagrowers.github.io/seguranca-quimica/produto/MP0000026/",
     "safety_summary_status": "pending_source_confirmation",
-    "safety_summary_note": "Consultar documentos anexos; segurança operacional completa ainda não validada."
+    "safety_summary_note": "Consultar documentos anexos; segurança operacional completa ainda não validada.",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000032",
@@ -988,19 +1015,21 @@
     "stock_family": "Fitosanitario",
     "companies": {
       "Extraissol": {
-        "stock": 2000.0,
-        "used_2026": 4000.0
+        "stock": 0,
+        "used_2026": 6000,
+        "unit": "UN"
       },
       "Finca Tropic": {
-        "stock": 3000.0,
-        "used_2026": 9000.0
+        "stock": 1000,
+        "used_2026": 13000,
+        "unit": "UN"
       }
     },
     "name": "Bioradis Tablet",
     "manufacturer": "Bioera",
     "category": "Biofertilizante",
-    "stock_total": 5000.0,
-    "used_2026_total": 13000.0,
+    "stock_total": 1000,
+    "used_2026_total": 19000,
     "in_stock": true,
     "history_only": false,
     "documentation_status": "complete",
@@ -1052,7 +1081,8 @@
     "safety_source": "Consultar os documentos associados a este MP; prevalecem as FDS e rótulos oficiais.",
     "safety_summary_status": "documented_with_note",
     "safety_summary_note": "Bioradis Tablet não é Bioradis Sol; FDS ES 2025 não classifica CLP. Resumo em PT para operação; não substitui a fonte oficial. Rever antes de imprimir cartões.",
-    "safety_schema_version": "v10"
+    "safety_schema_version": "v10",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000034",
@@ -1061,19 +1091,21 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 0
+        "stock": 0,
+        "used_2026": 0,
+        "unit": "KG"
       },
       "Finca Tropic": {
-        "stock": 27000.0,
-        "used_2026": 25640.0
+        "stock": 132200,
+        "used_2026": 25640,
+        "unit": "KG"
       }
     },
     "name": "Carbonato Cálcico 0/2 ECO",
     "manufacturer": "",
     "category": "Corretivo / fertilizante",
-    "stock_total": 27000.0,
-    "used_2026_total": 25640.0,
+    "stock_total": 132200,
+    "used_2026_total": 25640,
     "in_stock": true,
     "history_only": false,
     "documentation_status": "complete",
@@ -1112,7 +1144,8 @@
     "safety_source": "Consultar os documentos associados a este MP; prevalecem as FDS e rótulos oficiais.",
     "safety_summary_status": "documented_with_note",
     "safety_summary_note": "Classificação CLP não confirmada por FDS; apenas ficha de produto aceite pelo utilizador. Resumo em PT para operação; não substitui a fonte oficial. Rever antes de imprimir cartões.",
-    "safety_schema_version": "v10"
+    "safety_schema_version": "v10",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000035",
@@ -1121,19 +1154,21 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 2375.0,
-        "used_2026": 2625.0
+        "stock": 2375,
+        "used_2026": 2625,
+        "unit": "KG"
       },
       "Finca Tropic": {
-        "stock": 386.0,
-        "used_2026": 392.0
+        "stock": 0,
+        "used_2026": 778,
+        "unit": "KG"
       }
     },
     "name": "Yara MKP — Fosfato Monopotássico",
     "manufacturer": "Yara",
     "category": "Fertilizante",
-    "stock_total": 2761.0,
-    "used_2026_total": 3017.0,
+    "stock_total": 2375,
+    "used_2026_total": 3403,
     "in_stock": true,
     "history_only": false,
     "documentation_status": "complete",
@@ -1254,7 +1289,8 @@
     },
     "safety_schema_version": "v6-standard",
     "safety_summary_status": "verified",
-    "safety_summary_note": "Resumo em português extraído das secções 2/4/5/7/8 da FDS indicada; traduções ES/EN/NE/HI de apoio operacional, não substituem FDS e rótulo."
+    "safety_summary_note": "Resumo em português extraído das secções 2/4/5/7/8 da FDS indicada; traduções ES/EN/NE/HI de apoio operacional, não substituem FDS e rótulo.",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000036",
@@ -1263,19 +1299,21 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 960.0
+        "stock": 0,
+        "used_2026": 960,
+        "unit": "KG"
       },
       "Finca Tropic": {
-        "stock": 0.0,
-        "used_2026": 1105.0
+        "stock": 0,
+        "used_2026": 1105,
+        "unit": "KG"
       }
     },
     "name": "Alcaplant New",
     "manufacturer": "Agroquímica Codiagro",
     "category": "Corretivo / fertilizante",
-    "stock_total": 0.0,
-    "used_2026_total": 2065.0,
+    "stock_total": 0,
+    "used_2026_total": 2065,
     "in_stock": false,
     "history_only": true,
     "documentation_status": "complete",
@@ -1328,7 +1366,8 @@
     "safety_source": "Consultar os documentos associados a este MP; prevalecem as FDS e rótulos oficiais.",
     "safety_summary_status": "documented_with_note",
     "safety_summary_note": "FDS 2019 em ES — antiga, fonte do produto exato. Resumo em PT para operação; não substitui a fonte oficial. Rever antes de imprimir cartões.",
-    "safety_schema_version": "v10"
+    "safety_schema_version": "v10",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000037",
@@ -1337,18 +1376,20 @@
     "stock_family": "Fitosanitario",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 0
+        "stock": 0,
+        "used_2026": 0,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 320.0,
-        "used_2026": 0
+        "stock": 320,
+        "used_2026": 0,
+        "unit": "LT"
       }
     },
     "name": "Roundup UltraMax",
     "manufacturer": "Bayer",
     "category": "Fitofarmacêutico",
-    "stock_total": 320.0,
+    "stock_total": 320,
     "used_2026_total": 0,
     "in_stock": true,
     "history_only": false,
@@ -1544,7 +1585,8 @@
     },
     "safety_summary_status": "verified",
     "safety_summary_note": "Resumo operacional transcrito e conferido contra a fonte indicada em safety_source. A FDS/rótulo oficial prevalece sempre.",
-    "safety_schema_version": "v6-standard"
+    "safety_schema_version": "v6-standard",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000050",
@@ -1553,18 +1595,20 @@
     "stock_family": "Fitosanitario",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 0
+        "stock": 0,
+        "used_2026": 0,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 26.0,
-        "used_2026": 0
+        "stock": 26,
+        "used_2026": 0,
+        "unit": "LT"
       }
     },
     "name": "Milenial LS",
     "manufacturer": "Tecnicrop",
     "category": "Bioestimulante",
-    "stock_total": 26.0,
+    "stock_total": 26,
     "used_2026_total": 0,
     "in_stock": true,
     "history_only": false,
@@ -1620,7 +1664,8 @@
       "limitation": "FDS original em espanhol; resumo português de apoio. O rótulo e a FDS originais prevalecem."
     },
     "safety_summary_status": "complete",
-    "safety_summary_note": "Resumo operacional em português transcrito das secções relevantes da FDS indicada e, quando referido, do rótulo/ficha técnica. A FDS e o rótulo oficiais prevalecem."
+    "safety_summary_note": "Resumo operacional em português transcrito das secções relevantes da FDS indicada e, quando referido, do rótulo/ficha técnica. A FDS e o rótulo oficiais prevalecem.",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000061",
@@ -1629,18 +1674,20 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 10.0,
-        "used_2026": 0
+        "stock": 10,
+        "used_2026": 0,
+        "unit": "KG"
       },
       "Finca Tropic": {
-        "stock": 0.0,
-        "used_2026": 0
+        "stock": 0,
+        "used_2026": 0,
+        "unit": "KG"
       }
     },
     "name": "DISPER Complex AG Sinergy",
     "manufacturer": "DISPER",
     "category": "Fertilizante",
-    "stock_total": 10.0,
+    "stock_total": 10,
     "used_2026_total": 0,
     "in_stock": true,
     "history_only": false,
@@ -1816,7 +1863,8 @@
         },
         "safety_summary_note": "v7 परिचालन सारांश उल्लिखित SDS से तैयार किया गया है। अनुवाद केवल सहायता के लिए है; आधिकारिक SDS और लेबल प्राथमिक स्रोत हैं।"
       }
-    }
+    },
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000062",
@@ -1825,19 +1873,21 @@
     "stock_family": "Fitosanitario",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 0
+        "stock": 0,
+        "used_2026": 0,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 6.0,
-        "used_2026": 84.0
+        "stock": 6,
+        "used_2026": 84,
+        "unit": "LT"
       }
     },
     "name": "Proplant",
     "manufacturer": "",
     "category": "Fitofarmacêutico",
-    "stock_total": 6.0,
-    "used_2026_total": 84.0,
+    "stock_total": 6,
+    "used_2026_total": 84,
     "in_stock": true,
     "history_only": false,
     "documentation_status": "complete",
@@ -1910,7 +1960,8 @@
       "limitation": "Documento espanhol e compra espanhola ainda não comprovada; pedido de versão portuguesa/atualizada em seguimento."
     },
     "safety_summary_status": "complete",
-    "safety_summary_note": "Resumo operacional em português transcrito das secções relevantes da FDS indicada e, quando referido, do rótulo/ficha técnica. A FDS e o rótulo oficiais prevalecem."
+    "safety_summary_note": "Resumo operacional em português transcrito das secções relevantes da FDS indicada e, quando referido, do rótulo/ficha técnica. A FDS e o rótulo oficiais prevalecem.",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000063",
@@ -1919,19 +1970,21 @@
     "stock_family": "Fitosanitario",
     "companies": {
       "Extraissol": {
-        "stock": 200.0,
-        "used_2026": 180.0
+        "stock": 300,
+        "used_2026": 180,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 80.0,
-        "used_2026": 100.0
+        "stock": 180,
+        "used_2026": 100,
+        "unit": "LT"
       }
     },
     "name": "NeutroPHORT Plus",
     "manufacturer": "Cultifort",
     "category": "Adjuvante",
-    "stock_total": 280.0,
-    "used_2026_total": 280.0,
+    "stock_total": 480,
+    "used_2026_total": 280,
     "in_stock": true,
     "history_only": false,
     "documentation_status": "complete",
@@ -2061,7 +2114,8 @@
         },
         "safety_summary_note": "v7 परिचालन सारांश उल्लिखित SDS से तैयार किया गया है। अनुवाद केवल सहायता के लिए है; आधिकारिक SDS और लेबल प्राथमिक स्रोत हैं।"
       }
-    }
+    },
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000075",
@@ -2070,18 +2124,20 @@
     "stock_family": "Fitosanitario",
     "companies": {
       "Extraissol": {
-        "stock": 15.0,
-        "used_2026": 0
+        "stock": 15,
+        "used_2026": 0,
+        "unit": "KG"
       },
       "Finca Tropic": {
-        "stock": 0.0,
-        "used_2026": 0
+        "stock": 0,
+        "used_2026": 0,
+        "unit": "KG"
       }
     },
     "name": "Bioradis Sol",
     "manufacturer": "Bioera",
     "category": "Biofertilizante",
-    "stock_total": 15.0,
+    "stock_total": 15,
     "used_2026_total": 0,
     "in_stock": true,
     "history_only": false,
@@ -2134,7 +2190,8 @@
     "safety_source": "Consultar os documentos associados a este MP; prevalecem as FDS e rótulos oficiais.",
     "safety_summary_status": "documented_with_note",
     "safety_summary_note": "Rótulo português alerta para sensibilização por microrganismos, apesar de FDS sem classificação CLP. Resumo em PT para operação; não substitui a fonte oficial. Rever antes de imprimir cartões.",
-    "safety_schema_version": "v10"
+    "safety_schema_version": "v10",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000077",
@@ -2143,19 +2200,21 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 500.0
+        "stock": 0,
+        "used_2026": 500,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 0.0,
-        "used_2026": 0
+        "stock": 0,
+        "used_2026": 0,
+        "unit": "LT"
       }
     },
     "name": "Saviavital K",
     "manufacturer": "Bioera",
     "category": "Fertilizante",
-    "stock_total": 0.0,
-    "used_2026_total": 500.0,
+    "stock_total": 0,
+    "used_2026_total": 500,
     "in_stock": false,
     "history_only": true,
     "documentation_status": "complete",
@@ -2207,7 +2266,8 @@
     "safety_source": "Consultar os documentos associados a este MP; prevalecem as FDS e rótulos oficiais.",
     "safety_summary_status": "documented_with_note",
     "safety_summary_note": "FDS Bioera 2025 sem classificação CLP. Resumo em PT para operação; não substitui a fonte oficial. Rever antes de imprimir cartões.",
-    "safety_schema_version": "v10"
+    "safety_schema_version": "v10",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000081",
@@ -2217,11 +2277,13 @@
     "companies": {
       "Extraissol": {
         "stock": 5.5,
-        "used_2026": 0
+        "used_2026": 0,
+        "unit": "KG"
       },
       "Finca Tropic": {
-        "stock": 0.0,
-        "used_2026": 0
+        "stock": 0,
+        "used_2026": 0,
+        "unit": "KG"
       }
     },
     "name": "Sulfato de Zinco Heptahidratado",
@@ -2245,7 +2307,8 @@
     },
     "permanent_url": "https://perseagrowers.github.io/seguranca-quimica/produto/MP0000081/",
     "safety_summary_status": "pending_source_confirmation",
-    "safety_summary_note": "Consultar documentos anexos; segurança operacional completa ainda não validada."
+    "safety_summary_note": "Consultar documentos anexos; segurança operacional completa ainda não validada.",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000096",
@@ -2254,12 +2317,14 @@
     "stock_family": "Fitosanitario",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 125.0
+        "stock": 0,
+        "used_2026": 125,
+        "unit": "KG"
       },
       "Finca Tropic": {
         "stock": 12.5,
-        "used_2026": 12.5
+        "used_2026": 12.5,
+        "unit": "KG"
       }
     },
     "name": "Surround WP",
@@ -2421,7 +2486,8 @@
       "note": "Surround WP Crop Protectant; FDS BASF Portugal, impressão 05/06/2025."
     },
     "safety_summary_note": "Resumo operacional transcrito e conferido contra a fonte indicada em safety_source. A FDS/rótulo oficial prevalece sempre.",
-    "safety_schema_version": "v6-standard"
+    "safety_schema_version": "v6-standard",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000098",
@@ -2430,18 +2496,20 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 0
+        "stock": 0,
+        "used_2026": 0,
+        "unit": "KG"
       },
       "Finca Tropic": {
-        "stock": 10.0,
-        "used_2026": 0
+        "stock": 10,
+        "used_2026": 0,
+        "unit": "KG"
       }
     },
     "name": "YaraTera Hydroterra Diamante Ácido",
     "manufacturer": "Yara",
     "category": "Corretivo / fertilizante",
-    "stock_total": 10.0,
+    "stock_total": 10,
     "used_2026_total": 0,
     "in_stock": true,
     "history_only": false,
@@ -2642,7 +2710,8 @@
     },
     "safety_summary_status": "verified",
     "safety_summary_note": "Resumo operacional transcrito e conferido contra a fonte indicada em safety_source. A FDS/rótulo oficial prevalece sempre.",
-    "safety_schema_version": "v6-standard"
+    "safety_schema_version": "v6-standard",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000100",
@@ -2651,18 +2720,20 @@
     "stock_family": "Fitosanitario",
     "companies": {
       "Extraissol": {
-        "stock": 60.0,
-        "used_2026": 0
+        "stock": 60,
+        "used_2026": 0,
+        "unit": "KG"
       },
       "Finca Tropic": {
-        "stock": 33.0,
-        "used_2026": 0
+        "stock": 33,
+        "used_2026": 0,
+        "unit": "KG"
       }
     },
     "name": "DISPER Complex GS",
     "manufacturer": "DISPER",
     "category": "Fertilizante",
-    "stock_total": 93.0,
+    "stock_total": 93,
     "used_2026_total": 0,
     "in_stock": true,
     "history_only": false,
@@ -2702,7 +2773,8 @@
     "safety_source": "Consultar os documentos associados a este MP; prevalecem as FDS e rótulos oficiais.",
     "safety_summary_status": "documented_with_note",
     "safety_summary_note": "FDS antiga do DISPER Complex GS, 2016; fabricante não garante revisão atual. Resumo em PT para operação; não substitui a fonte oficial. Rever antes de imprimir cartões.",
-    "safety_schema_version": "v10"
+    "safety_schema_version": "v10",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000101",
@@ -2711,19 +2783,21 @@
     "stock_family": "Fitosanitario",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 23.0
+        "stock": 0,
+        "used_2026": 23,
+        "unit": "KG"
       },
       "Finca Tropic": {
-        "stock": 0.0,
-        "used_2026": 23.0
+        "stock": 0,
+        "used_2026": 23,
+        "unit": "KG"
       }
     },
     "name": "DISPER Zn Sinergy",
     "manufacturer": "DISPER",
     "category": "Fertilizante",
-    "stock_total": 0.0,
-    "used_2026_total": 46.0,
+    "stock_total": 0,
+    "used_2026_total": 46,
     "in_stock": false,
     "history_only": true,
     "documentation_status": "complete",
@@ -2853,7 +2927,8 @@
         },
         "safety_summary_note": "v7 परिचालन सारांश उल्लिखित SDS से तैयार किया गया है। अनुवाद केवल सहायता के लिए है; आधिकारिक SDS और लेबल प्राथमिक स्रोत हैं।"
       }
-    }
+    },
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000102",
@@ -2862,19 +2937,21 @@
     "stock_family": "Fitosanitario",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 55.0
+        "stock": 0,
+        "used_2026": 55,
+        "unit": "KG"
       },
       "Finca Tropic": {
-        "stock": 0.0,
-        "used_2026": 0
+        "stock": 0,
+        "used_2026": 0,
+        "unit": "KG"
       }
     },
     "name": "DISPER Chlorophyl GS",
     "manufacturer": "DISPER",
     "category": "Fertilizante",
-    "stock_total": 0.0,
-    "used_2026_total": 55.0,
+    "stock_total": 0,
+    "used_2026_total": 55,
     "in_stock": false,
     "history_only": true,
     "documentation_status": "complete",
@@ -3039,7 +3116,8 @@
         },
         "safety_summary_note": "v7 परिचालन सारांश उल्लिखित SDS से तैयार किया गया है। अनुवाद केवल सहायता के लिए है; आधिकारिक SDS और लेबल प्राथमिक स्रोत हैं।"
       }
-    }
+    },
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000103",
@@ -3048,19 +3126,21 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 250.0
+        "stock": 0,
+        "used_2026": 250,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 0.0,
-        "used_2026": 380.0
+        "stock": 0,
+        "used_2026": 380,
+        "unit": "LT"
       }
     },
     "name": "Kelpak",
     "manufacturer": "Kelp Products",
     "category": "Bioestimulante",
-    "stock_total": 0.0,
-    "used_2026_total": 630.0,
+    "stock_total": 0,
+    "used_2026_total": 630,
     "in_stock": false,
     "history_only": true,
     "documentation_status": "complete",
@@ -3104,7 +3184,8 @@
     "safety_source": "Consultar os documentos associados a este MP; prevalecem as FDS e rótulos oficiais.",
     "safety_summary_status": "documented_with_note",
     "safety_summary_note": "FDS Kelpak v4 (17/08/2026) não classificado CLP. Resumo em PT para operação; não substitui a fonte oficial. Rever antes de imprimir cartões.",
-    "safety_schema_version": "v10"
+    "safety_schema_version": "v10",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000108",
@@ -3113,19 +3194,21 @@
     "stock_family": "Fitosanitario",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 900.0
+        "stock": 0,
+        "used_2026": 900,
+        "unit": "KG"
       },
       "Finca Tropic": {
-        "stock": 0.0,
-        "used_2026": 360.0
+        "stock": 0,
+        "used_2026": 360,
+        "unit": "KG"
       }
     },
     "name": "Huwa-San TR-50",
     "manufacturer": "Roam Technology",
     "category": "Desinfetante / químico",
-    "stock_total": 0.0,
-    "used_2026_total": 1260.0,
+    "stock_total": 0,
+    "used_2026_total": 1260,
     "in_stock": false,
     "history_only": true,
     "documentation_status": "partial",
@@ -3153,7 +3236,8 @@
     },
     "permanent_url": "https://perseagrowers.github.io/seguranca-quimica/produto/MP0000108/",
     "safety_summary_status": "pending_source_confirmation",
-    "safety_summary_note": "Consultar documentos anexos; segurança operacional completa ainda não validada."
+    "safety_summary_note": "Consultar documentos anexos; segurança operacional completa ainda não validada.",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000111",
@@ -3162,19 +3246,21 @@
     "stock_family": "Fitosanitario",
     "companies": {
       "Extraissol": {
-        "stock": 135.0,
-        "used_2026": 1665.0
+        "stock": 135,
+        "used_2026": 1665,
+        "unit": "KG"
       },
       "Finca Tropic": {
-        "stock": 0.0,
-        "used_2026": 1391.0
+        "stock": 0,
+        "used_2026": 1391,
+        "unit": "KG"
       }
     },
     "name": "Agroxilato Zn Plus",
     "manufacturer": "",
     "category": "Fertilizante",
-    "stock_total": 135.0,
-    "used_2026_total": 3056.0,
+    "stock_total": 135,
+    "used_2026_total": 3056,
     "in_stock": true,
     "history_only": false,
     "documentation_status": "complete",
@@ -3222,7 +3308,8 @@
     "safety_source": "Consultar os documentos associados a este MP; prevalecem as FDS e rótulos oficiais.",
     "safety_summary_status": "documented_with_note",
     "safety_summary_note": "FDS do Plus de 2017. Não confundir com AGROXILATO-ZN sem Plus. Resumo em PT para operação; não substitui a fonte oficial. Rever antes de imprimir cartões.",
-    "safety_schema_version": "v10"
+    "safety_schema_version": "v10",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000115",
@@ -3231,18 +3318,20 @@
     "stock_family": "Fitosanitario",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 479.39
+        "stock": 0,
+        "used_2026": 479.39,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 5.0,
-        "used_2026": 208.75
+        "stock": 5,
+        "used_2026": 208.75,
+        "unit": "LT"
       }
     },
     "name": "Agrocomplex",
     "manufacturer": "",
     "category": "Fertilizante",
-    "stock_total": 5.0,
+    "stock_total": 5,
     "used_2026_total": 688.14,
     "in_stock": true,
     "history_only": false,
@@ -3260,7 +3349,8 @@
     },
     "permanent_url": "https://perseagrowers.github.io/seguranca-quimica/produto/MP0000115/",
     "safety_summary_status": "pending_source_confirmation",
-    "safety_summary_note": "Consultar documentos anexos; segurança operacional completa ainda não validada."
+    "safety_summary_note": "Consultar documentos anexos; segurança operacional completa ainda não validada.",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000116",
@@ -3269,19 +3359,21 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 1000.0
+        "stock": 0,
+        "used_2026": 1000,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 0.0,
-        "used_2026": 0
+        "stock": 0,
+        "used_2026": 0,
+        "unit": "LT"
       }
     },
     "name": "Leonar 22",
     "manufacturer": "Herogra Especiales",
     "category": "Bioestimulante",
-    "stock_total": 0.0,
-    "used_2026_total": 1000.0,
+    "stock_total": 0,
+    "used_2026_total": 1000,
     "in_stock": false,
     "history_only": true,
     "documentation_status": "partial",
@@ -3304,7 +3396,8 @@
     },
     "permanent_url": "https://perseagrowers.github.io/seguranca-quimica/produto/MP0000116/",
     "safety_summary_status": "pending_source_confirmation",
-    "safety_summary_note": "Consultar documentos anexos; segurança operacional completa ainda não validada."
+    "safety_summary_note": "Consultar documentos anexos; segurança operacional completa ainda não validada.",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000120",
@@ -3313,19 +3406,21 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 900.0
+        "stock": 0,
+        "used_2026": 900,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 0.0,
-        "used_2026": 360.0
+        "stock": 0,
+        "used_2026": 360,
+        "unit": "LT"
       }
     },
     "name": "Brotolom Soilforce",
     "manufacturer": "Alfredo Iñesta",
     "category": "Bioestimulante",
-    "stock_total": 0.0,
-    "used_2026_total": 1260.0,
+    "stock_total": 0,
+    "used_2026_total": 1260,
     "in_stock": false,
     "history_only": true,
     "documentation_status": "complete",
@@ -3500,7 +3595,8 @@
     },
     "safety_summary_status": "verified",
     "safety_summary_note": "Resumo operacional transcrito e conferido contra a fonte indicada em safety_source. A FDS/rótulo oficial prevalece sempre.",
-    "safety_schema_version": "v6-standard"
+    "safety_schema_version": "v6-standard",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000122",
@@ -3509,18 +3605,20 @@
     "stock_family": "Fitosanitario",
     "companies": {
       "Extraissol": {
-        "stock": 50.0,
-        "used_2026": 0
+        "stock": 50,
+        "used_2026": 0,
+        "unit": "KG"
       },
       "Finca Tropic": {
-        "stock": 116.0,
-        "used_2026": 0
+        "stock": 116,
+        "used_2026": 0,
+        "unit": "KG"
       }
     },
     "name": "Proferfol Boromag-44",
     "manufacturer": "",
     "category": "Fertilizante",
-    "stock_total": 166.0,
+    "stock_total": 166,
     "used_2026_total": 0,
     "in_stock": true,
     "history_only": false,
@@ -3538,7 +3636,8 @@
     },
     "permanent_url": "https://perseagrowers.github.io/seguranca-quimica/produto/MP0000122/",
     "safety_summary_status": "pending_source_confirmation",
-    "safety_summary_note": "Consultar documentos anexos; segurança operacional completa ainda não validada."
+    "safety_summary_note": "Consultar documentos anexos; segurança operacional completa ainda não validada.",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000123",
@@ -3547,18 +3646,20 @@
     "stock_family": "Fitosanitario",
     "companies": {
       "Extraissol": {
-        "stock": 180.0,
-        "used_2026": 0
+        "stock": 180,
+        "used_2026": 0,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 120.0,
-        "used_2026": 0
+        "stock": 120,
+        "used_2026": 0,
+        "unit": "LT"
       }
     },
     "name": "Aminolom TGV",
     "manufacturer": "Alfredo Iñesta",
     "category": "Bioestimulante",
-    "stock_total": 300.0,
+    "stock_total": 300,
     "used_2026_total": 0,
     "in_stock": true,
     "history_only": false,
@@ -3729,7 +3830,8 @@
     },
     "safety_summary_status": "verified",
     "safety_summary_note": "Resumo operacional transcrito e conferido contra a fonte indicada em safety_source. A FDS/rótulo oficial prevalece sempre.",
-    "safety_schema_version": "v6-standard"
+    "safety_schema_version": "v6-standard",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000126",
@@ -3738,18 +3840,20 @@
     "stock_family": "Fitosanitario",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 0
+        "stock": 0,
+        "used_2026": 0,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 57.0,
-        "used_2026": 0
+        "stock": 57,
+        "used_2026": 0,
+        "unit": "LT"
       }
     },
     "name": "Seryl Quick LS",
     "manufacturer": "Tecnicrop",
     "category": "Bioestimulante",
-    "stock_total": 57.0,
+    "stock_total": 57,
     "used_2026_total": 0,
     "in_stock": true,
     "history_only": false,
@@ -3802,7 +3906,8 @@
       "limitation": "Documento oficial espanhol; resumo de apoio em português."
     },
     "safety_summary_status": "complete",
-    "safety_summary_note": "Resumo operacional em português transcrito das secções relevantes da FDS indicada e, quando referido, do rótulo/ficha técnica. A FDS e o rótulo oficiais prevalecem."
+    "safety_summary_note": "Resumo operacional em português transcrito das secções relevantes da FDS indicada e, quando referido, do rótulo/ficha técnica. A FDS e o rótulo oficiais prevalecem.",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000130",
@@ -3811,19 +3916,21 @@
     "stock_family": "Fitosanitario",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 2000.0
+        "stock": 0,
+        "used_2026": 2000,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 0.0,
-        "used_2026": 478.0
+        "stock": 0,
+        "used_2026": 478,
+        "unit": "LT"
       }
     },
     "name": "Grow-Up 24",
     "manufacturer": "ANOCA Química",
     "category": "Bioestimulante",
-    "stock_total": 0.0,
-    "used_2026_total": 2478.0,
+    "stock_total": 0,
+    "used_2026_total": 2478,
     "in_stock": false,
     "history_only": true,
     "documentation_status": "complete",
@@ -3968,7 +4075,8 @@
     },
     "safety_summary_status": "verified",
     "safety_summary_note": "Resumo operacional transcrito e conferido contra a fonte indicada em safety_source. A FDS/rótulo oficial prevalece sempre.",
-    "safety_schema_version": "v6-standard"
+    "safety_schema_version": "v6-standard",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000131",
@@ -3977,19 +4085,21 @@
     "stock_family": "Fitosanitario",
     "companies": {
       "Extraissol": {
-        "stock": 127.0,
-        "used_2026": 30.0
+        "stock": 2,
+        "used_2026": 155,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 199.5,
-        "used_2026": 78.0
+        "stock": 14.5,
+        "used_2026": 263,
+        "unit": "LT"
       }
     },
     "name": "Hydracup E",
     "manufacturer": "",
     "category": "Fertilizante",
-    "stock_total": 326.5,
-    "used_2026_total": 108.0,
+    "stock_total": 16.5,
+    "used_2026_total": 418,
     "in_stock": true,
     "history_only": false,
     "documentation_status": "complete",
@@ -4039,7 +4149,8 @@
     "safety_source": "Consultar os documentos associados a este MP; prevalecem as FDS e rótulos oficiais.",
     "safety_summary_status": "documented_with_note",
     "safety_summary_note": "HYDRACUP confirmado equivalente a Hydracup E pela utilizadora. Resumo em PT para operação; não substitui a fonte oficial. Rever antes de imprimir cartões.",
-    "safety_schema_version": "v10"
+    "safety_schema_version": "v10",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000132",
@@ -4048,19 +4159,21 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 0
+        "stock": 0,
+        "used_2026": 0,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 85.0,
-        "used_2026": 13.0
+        "stock": 85,
+        "used_2026": 13,
+        "unit": "LT"
       }
     },
     "name": "Trichonym Bio",
     "manufacturer": "",
     "category": "Biofertilizante",
-    "stock_total": 85.0,
-    "used_2026_total": 13.0,
+    "stock_total": 85,
+    "used_2026_total": 13,
     "in_stock": true,
     "history_only": false,
     "documentation_status": "complete",
@@ -4101,7 +4214,8 @@
     "safety_source": "Consultar os documentos associados a este MP; prevalecem as FDS e rótulos oficiais.",
     "safety_summary_status": "documented_with_note",
     "safety_summary_note": "FDS Symborg 2018 recebida em imagens, não em PDF nativo. Nome corrigido para TRICHOSYM BIO. Resumo em PT para operação; não substitui a fonte oficial. Rever antes de imprimir cartões.",
-    "safety_schema_version": "v10"
+    "safety_schema_version": "v10",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000133",
@@ -4110,18 +4224,20 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 557.7
+        "stock": 0,
+        "used_2026": 557.7,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 0.0,
-        "used_2026": 200.0
+        "stock": 0,
+        "used_2026": 200,
+        "unit": "LT"
       }
     },
     "name": "VitaSoil",
     "manufacturer": "Symborg / Corteva",
     "category": "Biofertilizante",
-    "stock_total": 0.0,
+    "stock_total": 0,
     "used_2026_total": 757.7,
     "in_stock": false,
     "history_only": true,
@@ -4288,7 +4404,8 @@
       "revision": "20/02/2025",
       "note": "Fonte já rastreada na v2."
     },
-    "safety_schema_version": "v6-standard"
+    "safety_schema_version": "v6-standard",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000134",
@@ -4297,19 +4414,21 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 20.0,
-        "used_2026": 140.0
+        "stock": 20,
+        "used_2026": 140,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 500.0,
-        "used_2026": 20.0
+        "stock": 500,
+        "used_2026": 20,
+        "unit": "LT"
       }
     },
     "name": "Barrier",
     "manufacturer": "Cosmocel",
     "category": "Fertilizante",
-    "stock_total": 520.0,
-    "used_2026_total": 160.0,
+    "stock_total": 520,
+    "used_2026_total": 160,
     "in_stock": true,
     "history_only": false,
     "documentation_status": "complete",
@@ -4469,7 +4588,8 @@
     },
     "safety_summary_status": "verified",
     "safety_summary_note": "Resumo operacional transcrito e conferido contra a fonte indicada em safety_source. A FDS/rótulo oficial prevalece sempre.",
-    "safety_schema_version": "v6-standard"
+    "safety_schema_version": "v6-standard",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000135",
@@ -4478,19 +4598,21 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 220.0
+        "stock": 0,
+        "used_2026": 220,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 4.0,
-        "used_2026": 36.0
+        "stock": 4,
+        "used_2026": 36,
+        "unit": "LT"
       }
     },
     "name": "Atlantis",
     "manufacturer": "Delbon",
     "category": "Bioestimulante",
-    "stock_total": 4.0,
-    "used_2026_total": 256.0,
+    "stock_total": 4,
+    "used_2026_total": 256,
     "in_stock": true,
     "history_only": false,
     "documentation_status": "complete",
@@ -4625,7 +4747,8 @@
         },
         "safety_summary_note": "v7 परिचालन सारांश उल्लिखित SDS से तैयार किया गया है। अनुवाद केवल सहायता के लिए है; आधिकारिक SDS और लेबल प्राथमिक स्रोत हैं।"
       }
-    }
+    },
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000136",
@@ -4634,18 +4757,20 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 80.0,
-        "used_2026": 0
+        "stock": 80,
+        "used_2026": 0,
+        "unit": "KG"
       },
       "Finca Tropic": {
-        "stock": 15.0,
-        "used_2026": 0
+        "stock": 15,
+        "used_2026": 0,
+        "unit": "KG"
       }
     },
     "name": "Oxifort Berries",
     "manufacturer": "Cultifort",
     "category": "Fertilizante",
-    "stock_total": 95.0,
+    "stock_total": 95,
     "used_2026_total": 0,
     "in_stock": true,
     "history_only": false,
@@ -4776,7 +4901,8 @@
         },
         "safety_summary_note": "v7 परिचालन सारांश उल्लिखित SDS से तैयार किया गया है। अनुवाद केवल सहायता के लिए है; आधिकारिक SDS और लेबल प्राथमिक स्रोत हैं।"
       }
-    }
+    },
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000138",
@@ -4785,19 +4911,21 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 48.0,
-        "used_2026": 0
+        "stock": 18,
+        "used_2026": 30,
+        "unit": "KG"
       },
       "Finca Tropic": {
-        "stock": 315.0,
-        "used_2026": 0
+        "stock": 0,
+        "used_2026": 315,
+        "unit": "KG"
       }
     },
     "name": "Agro-K",
     "manufacturer": "Cosmocel",
     "category": "Fertilizante",
-    "stock_total": 363.0,
-    "used_2026_total": 0,
+    "stock_total": 18,
+    "used_2026_total": 345,
     "in_stock": true,
     "history_only": false,
     "documentation_status": "complete",
@@ -4957,7 +5085,8 @@
     },
     "safety_summary_status": "verified",
     "safety_summary_note": "Resumo operacional transcrito e conferido contra a fonte indicada em safety_source. A FDS/rótulo oficial prevalece sempre.",
-    "safety_schema_version": "v6-standard"
+    "safety_schema_version": "v6-standard",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000140",
@@ -4966,18 +5095,20 @@
     "stock_family": "Fitosanitario",
     "companies": {
       "Extraissol": {
-        "stock": 123.0,
-        "used_2026": 0
+        "stock": 123,
+        "used_2026": 0,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 0.0,
-        "used_2026": 0
+        "stock": 0,
+        "used_2026": 0,
+        "unit": "LT"
       }
     },
     "name": "PREV-AM",
     "manufacturer": "Rovensa Next",
     "category": "Fitofarmacêutico",
-    "stock_total": 123.0,
+    "stock_total": 123,
     "used_2026_total": 0,
     "in_stock": true,
     "history_only": false,
@@ -5183,7 +5314,8 @@
       "note": "Emissão 13/04/2022; impressão 12/11/2024."
     },
     "safety_summary_note": "Resumo operacional transcrito e conferido contra a fonte indicada em safety_source. A FDS/rótulo oficial prevalece sempre.",
-    "safety_schema_version": "v6-standard"
+    "safety_schema_version": "v6-standard",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000152",
@@ -5192,19 +5324,21 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 0
+        "stock": 0,
+        "used_2026": 0,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 0.0,
-        "used_2026": 120.0
+        "stock": 0,
+        "used_2026": 120,
+        "unit": "LT"
       }
     },
     "name": "Zupra CZ",
     "manufacturer": "Diachem",
     "category": "Fertilizante",
-    "stock_total": 0.0,
-    "used_2026_total": 120.0,
+    "stock_total": 0,
+    "used_2026_total": 120,
     "in_stock": false,
     "history_only": true,
     "documentation_status": "complete",
@@ -5271,7 +5405,8 @@
     "safety_source": "Consultar os documentos associados a este MP; prevalecem as FDS e rótulos oficiais.",
     "safety_summary_status": "documented_with_note",
     "safety_summary_note": "ZUPRA CZ é mistura líquida e fertilizante; ficha PT 2023 e certificado de lote 2026. Resumo em PT para operação; não substitui a fonte oficial. Rever antes de imprimir cartões.",
-    "safety_schema_version": "v10"
+    "safety_schema_version": "v10",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000153",
@@ -5280,19 +5415,21 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 28.0,
-        "used_2026": 0
+        "stock": 28,
+        "used_2026": 0,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 0.0,
-        "used_2026": 20.0
+        "stock": 0,
+        "used_2026": 20,
+        "unit": "LT"
       }
     },
     "name": "Retenol",
     "manufacturer": "DAYMSA",
     "category": "Fertilizante",
-    "stock_total": 28.0,
-    "used_2026_total": 20.0,
+    "stock_total": 28,
+    "used_2026_total": 20,
     "in_stock": true,
     "history_only": false,
     "documentation_status": "complete",
@@ -5477,7 +5614,8 @@
       "note": "FDS DAYMSA conforme Regulamento (UE) 2020/878."
     },
     "safety_summary_note": "Resumo operacional transcrito e conferido contra a fonte indicada em safety_source. A FDS/rótulo oficial prevalece sempre.",
-    "safety_schema_version": "v6-standard"
+    "safety_schema_version": "v6-standard",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000158",
@@ -5486,18 +5624,20 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 1200.0,
-        "used_2026": 0
+        "stock": 1200,
+        "used_2026": 0,
+        "unit": "KG"
       },
       "Finca Tropic": {
-        "stock": 550.0,
-        "used_2026": 0
+        "stock": 550,
+        "used_2026": 0,
+        "unit": "KG"
       }
     },
     "name": "Ácido Cítrico Monohidratado — Ensign",
     "manufacturer": "Shandong Ensign",
     "category": "Desinfetante / químico",
-    "stock_total": 1750.0,
+    "stock_total": 1750,
     "used_2026_total": 0,
     "in_stock": true,
     "history_only": false,
@@ -5549,7 +5689,8 @@
     "safety_source": "Consultar os documentos associados a este MP; prevalecem as FDS e rótulos oficiais.",
     "safety_summary_status": "documented_with_note",
     "safety_summary_note": "FDS enviada pelo fornecedor, marca LEMON FOOD/Brenntag e não ENSIGN; utilizadora aceitou equivalência CAS 5949-29-1. Resumo em PT para operação; não substitui a fonte oficial. Rever antes de imprimir cartões.",
-    "safety_schema_version": "v10"
+    "safety_schema_version": "v10",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000159",
@@ -5558,19 +5699,21 @@
     "stock_family": "Fitosanitario",
     "companies": {
       "Extraissol": {
-        "stock": 13.0,
-        "used_2026": 267.0
+        "stock": 13,
+        "used_2026": 267,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 0.0,
-        "used_2026": 50.0
+        "stock": 0,
+        "used_2026": 50,
+        "unit": "LT"
       }
     },
     "name": "INEX-A",
     "manufacturer": "Cosmocel",
     "category": "Adjuvante",
-    "stock_total": 13.0,
-    "used_2026_total": 317.0,
+    "stock_total": 13,
+    "used_2026_total": 317,
     "in_stock": true,
     "history_only": false,
     "documentation_status": "complete",
@@ -5746,7 +5889,8 @@
         },
         "safety_summary_note": "v7 परिचालन सारांश उल्लिखित SDS से तैयार किया गया है। अनुवाद केवल सहायता के लिए है; आधिकारिक SDS और लेबल प्राथमिक स्रोत हैं।"
       }
-    }
+    },
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000161",
@@ -5755,18 +5899,20 @@
     "stock_family": "Fitosanitario",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 0
+        "stock": 0,
+        "used_2026": 0,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 130.0,
-        "used_2026": 0
+        "stock": 130,
+        "used_2026": 0,
+        "unit": "LT"
       }
     },
     "name": "Evomax",
     "manufacturer": "Biagro",
     "category": "Fertilizante",
-    "stock_total": 130.0,
+    "stock_total": 130,
     "used_2026_total": 0,
     "in_stock": true,
     "history_only": false,
@@ -5937,7 +6083,8 @@
       }
     },
     "safety_summary_note": "Classificação atual confirmada; parte do resumo operacional provém de FDS anterior do mesmo produto porque a FDS atual ligada pela Biagro devolve erro 401 ao sistema de consulta. Confirmar a FDS atual antes de uma decisão crítica.",
-    "safety_schema_version": "v6-standard"
+    "safety_schema_version": "v6-standard",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000162",
@@ -5946,21 +6093,23 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 60.0,
-        "used_2026": 130.0
+        "stock": 0,
+        "used_2026": 190,
+        "unit": "KG"
       },
       "Finca Tropic": {
-        "stock": 0.0,
-        "used_2026": 130.0
+        "stock": 0,
+        "used_2026": 130,
+        "unit": "KG"
       }
     },
     "name": "Sanus Nutriferro",
     "manufacturer": "Sanus Agro Solutions",
     "category": "Fertilizante",
-    "stock_total": 60.0,
-    "used_2026_total": 260.0,
-    "in_stock": true,
-    "history_only": false,
+    "stock_total": 0,
+    "used_2026_total": 320,
+    "in_stock": false,
+    "history_only": true,
     "documentation_status": "complete",
     "documentation_note": "Sanus Nutriferro: FDS atual do fornecedor recebida em espanhol, 2025.",
     "documents": [
@@ -6005,7 +6154,8 @@
     "safety_source": "Consultar os documentos associados a este MP; prevalecem as FDS e rótulos oficiais.",
     "safety_summary_status": "documented_with_note",
     "safety_summary_note": "FDS oficial Sanus 2025 versão ES. Resumo em PT para operação; não substitui a fonte oficial. Rever antes de imprimir cartões.",
-    "safety_schema_version": "v10"
+    "safety_schema_version": "v10",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000163",
@@ -6014,21 +6164,23 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 0
+        "stock": 0,
+        "used_2026": 0,
+        "unit": "KG"
       },
       "Finca Tropic": {
-        "stock": 5.0,
-        "used_2026": 0
+        "stock": 0,
+        "used_2026": 5,
+        "unit": "KG"
       }
     },
     "name": "Naturamin WSP",
     "manufacturer": "Daymsa",
     "category": "Bioestimulante",
-    "stock_total": 5.0,
-    "used_2026_total": 0,
-    "in_stock": true,
-    "history_only": false,
+    "stock_total": 0,
+    "used_2026_total": 5,
+    "in_stock": false,
+    "history_only": true,
     "documentation_status": "complete",
     "documentation_note": "Documentação de segurança considerada suficiente para esta fase.",
     "documents": [
@@ -6176,7 +6328,8 @@
     },
     "safety_summary_status": "verified",
     "safety_summary_note": "Resumo operacional transcrito e conferido contra a fonte indicada em safety_source. A FDS/rótulo oficial prevalece sempre.",
-    "safety_schema_version": "v6-standard"
+    "safety_schema_version": "v6-standard",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000167",
@@ -6185,19 +6338,21 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 1.0,
-        "used_2026": 168.0
+        "stock": 1,
+        "used_2026": 168,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 5.0,
-        "used_2026": 90.0
+        "stock": 5,
+        "used_2026": 90,
+        "unit": "LT"
       }
     },
     "name": "Maxi-Grow Excel",
     "manufacturer": "Cosmocel",
     "category": "Bioestimulante",
-    "stock_total": 6.0,
-    "used_2026_total": 258.0,
+    "stock_total": 6,
+    "used_2026_total": 258,
     "in_stock": true,
     "history_only": false,
     "documentation_status": "complete",
@@ -6332,7 +6487,8 @@
     },
     "safety_summary_status": "verified",
     "safety_summary_note": "Resumo operacional transcrito e conferido contra a fonte indicada em safety_source. A FDS/rótulo oficial prevalece sempre.",
-    "safety_schema_version": "v6-standard"
+    "safety_schema_version": "v6-standard",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000173",
@@ -6341,19 +6497,21 @@
     "stock_family": "Fitosanitario",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 92.0
+        "stock": 0,
+        "used_2026": 92,
+        "unit": "KG"
       },
       "Finca Tropic": {
-        "stock": 0.0,
-        "used_2026": 0
+        "stock": 0,
+        "used_2026": 0,
+        "unit": "KG"
       }
     },
     "name": "Tusal",
     "manufacturer": "TIMAC AGRO",
     "category": "Fitofarmacêutico",
-    "stock_total": 0.0,
-    "used_2026_total": 92.0,
+    "stock_total": 0,
+    "used_2026_total": 92,
     "in_stock": false,
     "history_only": true,
     "documentation_status": "complete",
@@ -6425,7 +6583,8 @@
       "limitation": "Revisão 2022, confirmação de versão mais recente ainda pendente."
     },
     "safety_summary_status": "complete",
-    "safety_summary_note": "Resumo operacional em português transcrito das secções relevantes da FDS indicada e, quando referido, do rótulo/ficha técnica. A FDS e o rótulo oficiais prevalecem."
+    "safety_summary_note": "Resumo operacional em português transcrito das secções relevantes da FDS indicada e, quando referido, do rótulo/ficha técnica. A FDS e o rótulo oficiais prevalecem.",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000174",
@@ -6435,17 +6594,19 @@
     "companies": {
       "Extraissol": {
         "stock": 64.5,
-        "used_2026": 0
+        "used_2026": 0,
+        "unit": "KG"
       },
       "Finca Tropic": {
         "stock": 1.5,
-        "used_2026": 8.5
+        "used_2026": 8.5,
+        "unit": "KG"
       }
     },
     "name": "Bacillus Mix",
     "manufacturer": "ED&F Man / Almagra",
     "category": "Biofertilizante",
-    "stock_total": 66.0,
+    "stock_total": 66,
     "used_2026_total": 8.5,
     "in_stock": true,
     "history_only": false,
@@ -6595,7 +6756,8 @@
     },
     "safety_summary_status": "verified",
     "safety_summary_note": "Resumo operacional transcrito e conferido contra a fonte indicada em safety_source. A FDS/rótulo oficial prevalece sempre.",
-    "safety_schema_version": "v6-standard"
+    "safety_schema_version": "v6-standard",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000190",
@@ -6604,18 +6766,20 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 7.0,
-        "used_2026": 390.5
+        "stock": 7,
+        "used_2026": 390.5,
+        "unit": "KG"
       },
       "Finca Tropic": {
-        "stock": 0.0,
-        "used_2026": 201.0
+        "stock": 0,
+        "used_2026": 201,
+        "unit": "KG"
       }
     },
     "name": "Greenstim",
     "manufacturer": "Comercial Química Massó",
     "category": "Bioestimulante",
-    "stock_total": 7.0,
+    "stock_total": 7,
     "used_2026_total": 591.5,
     "in_stock": true,
     "history_only": false,
@@ -6776,7 +6940,8 @@
     },
     "safety_summary_status": "verified",
     "safety_summary_note": "Resumo operacional transcrito e conferido contra a fonte indicada em safety_source. A FDS/rótulo oficial prevalece sempre.",
-    "safety_schema_version": "v6-standard"
+    "safety_schema_version": "v6-standard",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000195",
@@ -6785,19 +6950,21 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 1200.0
+        "stock": 0,
+        "used_2026": 1200,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 0.0,
-        "used_2026": 1200.0
+        "stock": 0,
+        "used_2026": 1200,
+        "unit": "LT"
       }
     },
     "name": "Betactive NPK",
     "manufacturer": "ED&F Man",
     "category": "Bioestimulante",
-    "stock_total": 0.0,
-    "used_2026_total": 2400.0,
+    "stock_total": 0,
+    "used_2026_total": 2400,
     "in_stock": false,
     "history_only": true,
     "documentation_status": "complete",
@@ -6846,7 +7013,8 @@
     "safety_summary_status": "documented_with_note",
     "safety_source": "Consultar os documentos associados a este MP; prevalecem as FDS e rótulos oficiais.",
     "safety_summary_note": "FDS ED&F Man em espanhol 17/01/2025. Sem classificação de perigo CLP. Resumo em PT para operação; não substitui a fonte oficial. Rever antes de imprimir cartões.",
-    "safety_schema_version": "v10"
+    "safety_schema_version": "v10",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000197",
@@ -6855,12 +7023,14 @@
     "stock_family": "Fitosanitario",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 0
+        "stock": 0,
+        "used_2026": 0,
+        "unit": "LT"
       },
       "Finca Tropic": {
         "stock": 74.8,
-        "used_2026": 0
+        "used_2026": 0,
+        "unit": "LT"
       }
     },
     "name": "Boreal Plus",
@@ -7083,7 +7253,8 @@
       "note": "BOREAL PLUS — Insecticida/Acaricida EC."
     },
     "safety_summary_note": "Resumo operacional transcrito e conferido contra a fonte indicada em safety_source. A FDS/rótulo oficial prevalece sempre.",
-    "safety_schema_version": "v6-standard"
+    "safety_schema_version": "v6-standard",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000202",
@@ -7092,21 +7263,23 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 300.0,
-        "used_2026": 0
+        "stock": 0,
+        "used_2026": 300,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 0.0,
-        "used_2026": 0
+        "stock": 0,
+        "used_2026": 0,
+        "unit": "LT"
       }
     },
     "name": "Bial Micro",
     "manufacturer": "Biagro",
     "category": "Fertilizante",
-    "stock_total": 300.0,
-    "used_2026_total": 0,
-    "in_stock": true,
-    "history_only": false,
+    "stock_total": 0,
+    "used_2026_total": 300,
+    "in_stock": false,
+    "history_only": true,
     "documentation_status": "complete",
     "documentation_note": "Completo e rastreável por fontes oficiais Biagro (página do produto, FT e FDS). Não foi localizada fotografia local inequívoca no arquivo; o resumo safety ainda não foi transcrito no master.",
     "documents": [],
@@ -7274,7 +7447,8 @@
       }
     },
     "safety_summary_note": "Classificação atual confirmada; parte do resumo operacional provém de FDS anterior do mesmo produto porque a FDS atual ligada pela Biagro devolve erro 401 ao sistema de consulta. Confirmar a FDS atual antes de uma decisão crítica.",
-    "safety_schema_version": "v6-standard"
+    "safety_schema_version": "v6-standard",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000209",
@@ -7283,19 +7457,21 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 400.0,
-        "used_2026": 600.0
+        "stock": 400,
+        "used_2026": 600,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 0.0,
-        "used_2026": 200.0
+        "stock": 0,
+        "used_2026": 200,
+        "unit": "LT"
       }
     },
     "name": "Sanus Absorb Plus",
     "manufacturer": "Sanus Agro Solutions",
     "category": "Bioestimulante",
-    "stock_total": 400.0,
-    "used_2026_total": 800.0,
+    "stock_total": 400,
+    "used_2026_total": 800,
     "in_stock": true,
     "history_only": false,
     "documentation_status": "complete",
@@ -7341,7 +7517,8 @@
     "safety_source": "Consultar os documentos associados a este MP; prevalecem as FDS e rótulos oficiais.",
     "safety_summary_status": "documented_with_note",
     "safety_summary_note": "FDS exata ABSORPLUS da Sanus 2023. Resumo em PT para operação; não substitui a fonte oficial. Rever antes de imprimir cartões.",
-    "safety_schema_version": "v10"
+    "safety_schema_version": "v10",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000210",
@@ -7350,19 +7527,21 @@
     "stock_family": "Fitosanitario",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 0
+        "stock": 0,
+        "used_2026": 0,
+        "unit": "KG"
       },
       "Finca Tropic": {
-        "stock": 590.0,
-        "used_2026": 60.0
+        "stock": 590,
+        "used_2026": 60,
+        "unit": "KG"
       }
     },
     "name": "Metarex Duo",
     "manufacturer": "De Sangosse",
     "category": "Fitofarmacêutico",
-    "stock_total": 590.0,
-    "used_2026_total": 60.0,
+    "stock_total": 590,
+    "used_2026_total": 60,
     "in_stock": true,
     "history_only": false,
     "documentation_status": "partial",
@@ -7399,7 +7578,8 @@
       }
     },
     "safety_summary_status": "pending_source_confirmation",
-    "safety_summary_note": "Consultar documentos anexos; segurança operacional completa ainda não validada."
+    "safety_summary_note": "Consultar documentos anexos; segurança operacional completa ainda não validada.",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000218",
@@ -7408,18 +7588,20 @@
     "stock_family": "Fitosanitario",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 0
+        "stock": 0,
+        "used_2026": 0,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 2.0,
-        "used_2026": 0
+        "stock": 2,
+        "used_2026": 0,
+        "unit": "LT"
       }
     },
     "name": "Valcure",
     "manufacturer": "Belchim",
     "category": "Fitofarmacêutico",
-    "stock_total": 2.0,
+    "stock_total": 2,
     "used_2026_total": 0,
     "in_stock": true,
     "history_only": false,
@@ -7595,7 +7777,8 @@
       "note": "Produto fitofarmacêutico de uso profissional; fungicida microbiológico."
     },
     "safety_summary_note": "Resumo operacional transcrito e conferido contra a fonte indicada em safety_source. A FDS/rótulo oficial prevalece sempre.",
-    "safety_schema_version": "v6-standard"
+    "safety_schema_version": "v6-standard",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000219",
@@ -7604,18 +7787,20 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 0
+        "stock": 0,
+        "used_2026": 0,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 320.0,
-        "used_2026": 0
+        "stock": 320,
+        "used_2026": 0,
+        "unit": "LT"
       }
     },
     "name": "Brotomax",
     "manufacturer": "",
     "category": "Bioestimulante",
-    "stock_total": 320.0,
+    "stock_total": 320,
     "used_2026_total": 0,
     "in_stock": true,
     "history_only": false,
@@ -7679,7 +7864,8 @@
       "limitation": "Rótulo e FDS em espanhol. Não substituir por ficha de outro produto."
     },
     "safety_summary_status": "complete",
-    "safety_summary_note": "Resumo operacional em português transcrito das secções relevantes da FDS indicada e, quando referido, do rótulo/ficha técnica. A FDS e o rótulo oficiais prevalecem."
+    "safety_summary_note": "Resumo operacional em português transcrito das secções relevantes da FDS indicada e, quando referido, do rótulo/ficha técnica. A FDS e o rótulo oficiais prevalecem.",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000231",
@@ -7688,18 +7874,20 @@
     "stock_family": "Fitosanitario",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 0
+        "stock": 0,
+        "used_2026": 0,
+        "unit": "KG"
       },
       "Finca Tropic": {
-        "stock": 60.0,
-        "used_2026": 0
+        "stock": 60,
+        "used_2026": 0,
+        "unit": "KG"
       }
     },
     "name": "DISPER One AG",
     "manufacturer": "DISPER",
     "category": "Fertilizante",
-    "stock_total": 60.0,
+    "stock_total": 60,
     "used_2026_total": 0,
     "in_stock": true,
     "history_only": false,
@@ -7865,7 +8053,8 @@
         },
         "safety_summary_note": "v7 परिचालन सारांश उल्लिखित SDS से तैयार किया गया है। अनुवाद केवल सहायता के लिए है; आधिकारिक SDS और लेबल प्राथमिक स्रोत हैं।"
       }
-    }
+    },
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000232",
@@ -7874,18 +8063,20 @@
     "stock_family": "Fitosanitario",
     "companies": {
       "Extraissol": {
-        "stock": 100.0,
-        "used_2026": 0
+        "stock": 100,
+        "used_2026": 0,
+        "unit": "KG"
       },
       "Finca Tropic": {
-        "stock": 0.0,
-        "used_2026": 0
+        "stock": 0,
+        "used_2026": 0,
+        "unit": "KG"
       }
     },
     "name": "DISPER Micro AG",
     "manufacturer": "DISPER",
     "category": "Fertilizante",
-    "stock_total": 100.0,
+    "stock_total": 100,
     "used_2026_total": 0,
     "in_stock": true,
     "history_only": false,
@@ -8061,7 +8252,8 @@
         },
         "safety_summary_note": "v7 परिचालन सारांश उल्लिखित SDS से तैयार किया गया है। अनुवाद केवल सहायता के लिए है; आधिकारिक SDS और लेबल प्राथमिक स्रोत हैं।"
       }
-    }
+    },
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000233",
@@ -8070,19 +8262,21 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 170.0,
-        "used_2026": 30.0
+        "stock": 170,
+        "used_2026": 30,
+        "unit": "KG"
       },
       "Finca Tropic": {
-        "stock": 0.0,
-        "used_2026": 30.0
+        "stock": 0,
+        "used_2026": 30,
+        "unit": "KG"
       }
     },
     "name": "HaifaStim Rally",
     "manufacturer": "Haifa",
     "category": "Fertilizante",
-    "stock_total": 170.0,
-    "used_2026_total": 60.0,
+    "stock_total": 170,
+    "used_2026_total": 60,
     "in_stock": true,
     "history_only": false,
     "documentation_status": "complete",
@@ -8212,7 +8406,8 @@
     },
     "safety_summary_status": "verified",
     "safety_summary_note": "Resumo operacional transcrito e conferido contra a fonte indicada em safety_source. A FDS/rótulo oficial prevalece sempre.",
-    "safety_schema_version": "v6-standard"
+    "safety_schema_version": "v6-standard",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000237",
@@ -8221,19 +8416,21 @@
     "stock_family": "Fitosanitario",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 580.0
+        "stock": 0,
+        "used_2026": 580,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 0.0,
-        "used_2026": 465.0
+        "stock": 0,
+        "used_2026": 465,
+        "unit": "LT"
       }
     },
     "name": "Alexin 75 LS",
     "manufacturer": "Comercial Química Massó",
     "category": "Fitofarmacêutico",
-    "stock_total": 0.0,
-    "used_2026_total": 1045.0,
+    "stock_total": 0,
+    "used_2026_total": 1045,
     "in_stock": false,
     "history_only": true,
     "documentation_status": "complete",
@@ -8373,7 +8570,8 @@
     },
     "safety_summary_status": "verified",
     "safety_summary_note": "Resumo operacional transcrito e conferido contra a fonte indicada em safety_source. A FDS/rótulo oficial prevalece sempre.",
-    "safety_schema_version": "v6-standard"
+    "safety_schema_version": "v6-standard",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000242",
@@ -8382,19 +8580,21 @@
     "stock_family": "Desinfectante",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 264.0
+        "stock": 0,
+        "used_2026": 264,
+        "unit": "KG"
       },
       "Finca Tropic": {
-        "stock": 0.0,
-        "used_2026": 0
+        "stock": 0,
+        "used_2026": 0,
+        "unit": "KG"
       }
     },
     "name": "OXIPREMIUM 15",
     "manufacturer": "Química Industrial Mediterránea S.L.U. (AGRO)",
     "category": "Desinfetante / químico",
-    "stock_total": 0.0,
-    "used_2026_total": 264.0,
+    "stock_total": 0,
+    "used_2026_total": 264,
     "in_stock": false,
     "history_only": true,
     "documentation_status": "complete",
@@ -8629,7 +8829,8 @@
       "note": "FDS portuguesa, impressão 08/09/2026."
     },
     "safety_summary_note": "Resumo operacional transcrito e conferido contra a fonte indicada em safety_source. A FDS/rótulo oficial prevalece sempre.",
-    "safety_schema_version": "v6-standard"
+    "safety_schema_version": "v6-standard",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000279",
@@ -8638,19 +8839,21 @@
     "stock_family": "Fitosanitario",
     "companies": {
       "Extraissol": {
-        "stock": 915.0,
-        "used_2026": 60.0
+        "stock": 915,
+        "used_2026": 60,
+        "unit": "KG"
       },
       "Finca Tropic": {
-        "stock": 300.0,
-        "used_2026": 0
+        "stock": 300,
+        "used_2026": 0,
+        "unit": "KG"
       }
     },
     "name": "Calda Bordalesa Ascenza",
     "manufacturer": "Ascenza",
     "category": "Fitofarmacêutico",
-    "stock_total": 1215.0,
-    "used_2026_total": 60.0,
+    "stock_total": 1215,
+    "used_2026_total": 60,
     "in_stock": true,
     "history_only": false,
     "documentation_status": "complete",
@@ -8835,7 +9038,8 @@
       "note": "CALDA BORDALESA ASCENZA — Fungicida WP."
     },
     "safety_summary_note": "Resumo operacional transcrito e conferido contra a fonte indicada em safety_source. A FDS/rótulo oficial prevalece sempre.",
-    "safety_schema_version": "v6-standard"
+    "safety_schema_version": "v6-standard",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000281",
@@ -8844,18 +9048,20 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 1900.0,
-        "used_2026": 0
+        "stock": 1900,
+        "used_2026": 0,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 600.0,
-        "used_2026": 0
+        "stock": 600,
+        "used_2026": 0,
+        "unit": "LT"
       }
     },
     "name": "BRANDT Converge 28",
     "manufacturer": "BRANDT",
     "category": "Fertilizante",
-    "stock_total": 2500.0,
+    "stock_total": 2500,
     "used_2026_total": 0,
     "in_stock": true,
     "history_only": false,
@@ -8895,7 +9101,8 @@
     "safety_source": "Consultar os documentos associados a este MP; prevalecem as FDS e rótulos oficiais.",
     "safety_summary_status": "documented_with_note",
     "safety_summary_note": "FDS 2014 antiga, aceite como fonte disponível; não substituir por FDS mais recente sem validação. Resumo em PT para operação; não substitui a fonte oficial. Rever antes de imprimir cartões.",
-    "safety_schema_version": "v10"
+    "safety_schema_version": "v10",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000282",
@@ -8904,19 +9111,21 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 100.0,
-        "used_2026": 20.0
+        "stock": 100,
+        "used_2026": 20,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 140.0,
-        "used_2026": 0
+        "stock": 140,
+        "used_2026": 0,
+        "unit": "LT"
       }
     },
     "name": "Force Sil",
     "manufacturer": "Ecoforce",
     "category": "Fertilizante",
-    "stock_total": 240.0,
-    "used_2026_total": 20.0,
+    "stock_total": 240,
+    "used_2026_total": 20,
     "in_stock": true,
     "history_only": false,
     "documentation_status": "complete",
@@ -8960,7 +9169,8 @@
     "safety_source": "Consultar os documentos associados a este MP; prevalecem as FDS e rótulos oficiais.",
     "safety_summary_status": "documented_with_note",
     "safety_summary_note": "FDS Ecoforce Force Sil versão 4 de 03/02/2026, não classificada CLP. Resumo em PT para operação; não substitui a fonte oficial. Rever antes de imprimir cartões.",
-    "safety_schema_version": "v10"
+    "safety_schema_version": "v10",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000286",
@@ -8969,19 +9179,21 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 5.0,
-        "used_2026": 355.0
+        "stock": 5,
+        "used_2026": 355,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 20.0,
-        "used_2026": 100.0
+        "stock": 20,
+        "used_2026": 100,
+        "unit": "LT"
       }
     },
     "name": "Welgro Mar Crema Ecolicitor",
     "manufacturer": "Comercial Química Massó",
     "category": "Bioestimulante",
-    "stock_total": 25.0,
-    "used_2026_total": 455.0,
+    "stock_total": 25,
+    "used_2026_total": 455,
     "in_stock": true,
     "history_only": false,
     "documentation_status": "complete",
@@ -9158,7 +9370,8 @@
       }
     },
     "safety_summary_note": "Resumo operacional transcrito e conferido contra a fonte indicada em safety_source. A FDS/rótulo oficial prevalece sempre.",
-    "safety_schema_version": "v6-standard"
+    "safety_schema_version": "v6-standard",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000287",
@@ -9167,19 +9380,21 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 200.0,
-        "used_2026": 160.0
+        "stock": 200,
+        "used_2026": 160,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 130.0,
-        "used_2026": 30.0
+        "stock": 130,
+        "used_2026": 30,
+        "unit": "LT"
       }
     },
     "name": "Dentamet",
     "manufacturer": "Ecoculture Biosciences",
     "category": "Fertilizante",
-    "stock_total": 330.0,
-    "used_2026_total": 190.0,
+    "stock_total": 330,
+    "used_2026_total": 190,
     "in_stock": true,
     "history_only": false,
     "documentation_status": "complete",
@@ -9385,7 +9600,8 @@
         },
         "safety_summary_note": "v7 परिचालन सारांश उल्लिखित SDS से तैयार किया गया है। अनुवाद केवल सहायता के लिए है; आधिकारिक SDS और लेबल प्राथमिक स्रोत हैं।"
       }
-    }
+    },
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000288",
@@ -9394,18 +9610,20 @@
     "stock_family": "Fitosanitario",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 0
+        "stock": 2,
+        "used_2026": 0,
+        "unit": "LI"
       },
       "Finca Tropic": {
-        "stock": 1.0,
-        "used_2026": 0
+        "stock": 3,
+        "used_2026": 0,
+        "unit": "LI"
       }
     },
     "name": "Promalin Top",
     "manufacturer": "Nufarm",
     "category": "Fitofarmacêutico",
-    "stock_total": 1.0,
+    "stock_total": 5,
     "used_2026_total": 0,
     "in_stock": true,
     "history_only": false,
@@ -9581,7 +9799,8 @@
       "note": "Promalin Top — regulador de crescimento; uso profissional."
     },
     "safety_summary_note": "Resumo operacional transcrito e conferido contra a fonte indicada em safety_source. A FDS/rótulo oficial prevalece sempre.",
-    "safety_schema_version": "v6-standard"
+    "safety_schema_version": "v6-standard",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000291",
@@ -9590,19 +9809,21 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 170.0,
-        "used_2026": 410.0
+        "stock": 170,
+        "used_2026": 410,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 130.0,
-        "used_2026": 170.0
+        "stock": 130,
+        "used_2026": 170,
+        "unit": "LT"
       }
     },
     "name": "XStress",
     "manufacturer": "Ecoculture Biosciences",
     "category": "Fertilizante",
-    "stock_total": 300.0,
-    "used_2026_total": 580.0,
+    "stock_total": 300,
+    "used_2026_total": 580,
     "in_stock": true,
     "history_only": false,
     "documentation_status": "complete",
@@ -9784,7 +10005,8 @@
       }
     },
     "safety_summary_note": "Resumo operacional transcrito e conferido contra a fonte indicada em safety_source. A FDS/rótulo oficial prevalece sempre.",
-    "safety_schema_version": "v6-standard"
+    "safety_schema_version": "v6-standard",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000294",
@@ -9793,19 +10015,21 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 1200.0
+        "stock": 0,
+        "used_2026": 1200,
+        "unit": "LT"
       },
       "Finca Tropic": {
         "stock": 9.5,
-        "used_2026": 857.0
+        "used_2026": 857,
+        "unit": "KG"
       }
     },
     "name": "Solubor DF",
     "manufacturer": "U.S. Borax / Rio Tinto",
     "category": "Fertilizante",
-    "stock_total": 9.5,
-    "used_2026_total": 2057.0,
+    "stock_total": null,
+    "used_2026_total": null,
     "in_stock": true,
     "history_only": false,
     "documentation_status": "complete",
@@ -9986,7 +10210,9 @@
         },
         "safety_summary_note": "v7 परिचालन सारांश उल्लिखित SDS से तैयार किया गया है। अनुवाद केवल सहायता के लिए है; आधिकारिक SDS और लेबल प्राथमिक स्रोत हैं।"
       }
-    }
+    },
+    "stock_reference": "2026-10-31",
+    "stock_unit_note": "Unidades divergentes nos inventários de origem; valores por empresa, sem conversão."
   },
   {
     "code": "MP0000297",
@@ -9995,19 +10221,21 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 862.5
+        "stock": 0,
+        "used_2026": 862.5,
+        "unit": "KG"
       },
       "Finca Tropic": {
-        "stock": 0.0,
-        "used_2026": 300.0
+        "stock": 0,
+        "used_2026": 500,
+        "unit": "KG"
       }
     },
     "name": "Ultraferro",
     "manufacturer": "Rovensa Next",
     "category": "Fertilizante",
-    "stock_total": 0.0,
-    "used_2026_total": 1162.5,
+    "stock_total": 0,
+    "used_2026_total": 1362.5,
     "in_stock": false,
     "history_only": true,
     "documentation_status": "complete",
@@ -10158,7 +10386,8 @@
       }
     },
     "safety_summary_note": "Resumo operacional transcrito e conferido contra a fonte indicada em safety_source. A FDS/rótulo oficial prevalece sempre.",
-    "safety_schema_version": "v6-standard"
+    "safety_schema_version": "v6-standard",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000309",
@@ -10167,19 +10396,21 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 20.0,
-        "used_2026": 200.0
+        "stock": 20,
+        "used_2026": 200,
+        "unit": "KG"
       },
       "Finca Tropic": {
-        "stock": 35.0,
-        "used_2026": 60.0
+        "stock": 35,
+        "used_2026": 60,
+        "unit": "KG"
       }
     },
     "name": "Rexolin Zn15",
     "manufacturer": "",
     "category": "Fertilizante",
-    "stock_total": 55.0,
-    "used_2026_total": 260.0,
+    "stock_total": 55,
+    "used_2026_total": 260,
     "in_stock": true,
     "history_only": false,
     "documentation_status": "complete",
@@ -10218,7 +10449,8 @@
     "safety_source": "Consultar os documentos associados a este MP; prevalecem as FDS e rótulos oficiais.",
     "safety_summary_status": "documented_with_note",
     "safety_summary_note": "FDS YaraTera Rexolin Zn15 PT v2 de 01/10/2026; sem perigos CLP, poeira pode formar mistura explosiva no ar. Resumo em PT para operação; não substitui a fonte oficial. Rever antes de imprimir cartões.",
-    "safety_schema_version": "v10"
+    "safety_schema_version": "v10",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000311",
@@ -10227,19 +10459,21 @@
     "stock_family": "Fitosanitario",
     "companies": {
       "Extraissol": {
-        "stock": 500.0,
-        "used_2026": 2000.0
+        "stock": 500,
+        "used_2026": 2000,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 400.0,
-        "used_2026": 380.0
+        "stock": 200,
+        "used_2026": 580,
+        "unit": "KG"
       }
     },
     "name": "CUNEB",
     "manufacturer": "Lainco",
     "category": "Fitofarmacêutico",
-    "stock_total": 900.0,
-    "used_2026_total": 2380.0,
+    "stock_total": null,
+    "used_2026_total": null,
     "in_stock": true,
     "history_only": false,
     "documentation_status": "complete",
@@ -10404,7 +10638,9 @@
       "note": "FDS espanhola. O produto em stock está associado a registo espanhol; a autorização portuguesa permanece por validar no master."
     },
     "safety_summary_note": "Resumo operacional transcrito e conferido contra a fonte indicada em safety_source. A FDS/rótulo oficial prevalece sempre.",
-    "safety_schema_version": "v6-standard"
+    "safety_schema_version": "v6-standard",
+    "stock_reference": "2026-10-31",
+    "stock_unit_note": "Unidades divergentes nos inventários de origem; valores por empresa, sem conversão."
   },
   {
     "code": "MP0000313",
@@ -10413,19 +10649,21 @@
     "stock_family": "Fertilizante",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 240.0
+        "stock": 0,
+        "used_2026": 240,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 0.0,
-        "used_2026": 110.0
+        "stock": 0,
+        "used_2026": 110,
+        "unit": "LT"
       }
     },
     "name": "Calibitt",
     "manufacturer": "Comercial Química Massó",
     "category": "Fertilizante",
-    "stock_total": 0.0,
-    "used_2026_total": 350.0,
+    "stock_total": 0,
+    "used_2026_total": 350,
     "in_stock": false,
     "history_only": true,
     "documentation_status": "complete",
@@ -10615,7 +10853,8 @@
     },
     "safety_summary_status": "verified",
     "safety_summary_note": "Resumo operacional transcrito e conferido contra a fonte indicada em safety_source. A FDS/rótulo oficial prevalece sempre.",
-    "safety_schema_version": "v6-standard"
+    "safety_schema_version": "v6-standard",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000316",
@@ -10624,19 +10863,21 @@
     "stock_family": "Fitosanitario",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 400.0
+        "stock": 0,
+        "used_2026": 400,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 0.0,
-        "used_2026": 300.0
+        "stock": 0,
+        "used_2026": 300,
+        "unit": "LT"
       }
     },
     "name": "Serenade ASO",
     "manufacturer": "Bayer",
     "category": "Fitofarmacêutico",
-    "stock_total": 0.0,
-    "used_2026_total": 700.0,
+    "stock_total": 0,
+    "used_2026_total": 700,
     "in_stock": false,
     "history_only": true,
     "documentation_status": "complete",
@@ -10816,30 +11057,33 @@
       "note": "SERENADE ASO — FDS Bayer Portugal."
     },
     "safety_summary_note": "Resumo operacional transcrito e conferido contra a fonte indicada em safety_source. A FDS/rótulo oficial prevalece sempre.",
-    "safety_schema_version": "v6-standard"
+    "safety_schema_version": "v6-standard",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000331",
     "stock_name": "MP0000331",
-    "unit": "LT",
+    "unit": "KG",
     "stock_family": "Fitosanitario",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 0
+        "stock": 0,
+        "used_2026": 0,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 0.0,
-        "used_2026": 24600.0
+        "stock": 103320,
+        "used_2026": 24600,
+        "unit": "KG"
       }
     },
     "name": "Cultivit M.O. Activ Pellet",
     "manufacturer": "Agribeco",
     "category": "Fertilizante",
-    "stock_total": 0.0,
-    "used_2026_total": 24600.0,
-    "in_stock": false,
-    "history_only": true,
+    "stock_total": 103320,
+    "used_2026_total": 24600,
+    "in_stock": true,
+    "history_only": false,
     "documentation_status": "complete",
     "documentation_note": "FDS Agribeco em português, v3, revisão 14/01/2025, código fabricante 140420000. Enviada pelo fornecedor EM RESPOSTA ao pedido específico sobre CULTIVIT M.O. ACTIV (PELLET), confirmado pela utilizadora em 15/10/2026; associação documental da apresentação aceite. O PDF tem codificação de texto defeituosa, mas a apresentação visual é legível.",
     "documents": [
@@ -10884,7 +11128,8 @@
       "limitation": "FDS enviada em resposta ao pedido da variante Pellet; codificação PDF imperfeita, versão visual válida."
     },
     "safety_summary_status": "complete",
-    "safety_summary_note": "Resumo operacional em português transcrito das secções relevantes da FDS indicada e, quando referido, do rótulo/ficha técnica. A FDS e o rótulo oficiais prevalecem."
+    "safety_summary_note": "Resumo operacional em português transcrito das secções relevantes da FDS indicada e, quando referido, do rótulo/ficha técnica. A FDS e o rótulo oficiais prevalecem.",
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000338",
@@ -10893,19 +11138,21 @@
     "stock_family": "Fitosanitario",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 160.0
+        "stock": 0,
+        "used_2026": 160,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 0.0,
-        "used_2026": 0
+        "stock": 0,
+        "used_2026": 0,
+        "unit": "LT"
       }
     },
     "name": "BlackJak",
     "manufacturer": "Sipcam",
     "category": "Bioestimulante",
-    "stock_total": 0.0,
-    "used_2026_total": 160.0,
+    "stock_total": 0,
+    "used_2026_total": 160,
     "in_stock": false,
     "history_only": true,
     "documentation_status": "complete",
@@ -11050,7 +11297,8 @@
         },
         "safety_summary_note": "v7 परिचालन सारांश उल्लिखित SDS से तैयार किया गया है। अनुवाद केवल सहायता के लिए है; आधिकारिक SDS और लेबल प्राथमिक स्रोत हैं।"
       }
-    }
+    },
+    "stock_reference": "2026-10-31"
   },
   {
     "code": "MP0000339",
@@ -11059,19 +11307,21 @@
     "stock_family": "Fitosanitario",
     "companies": {
       "Extraissol": {
-        "stock": 0.0,
-        "used_2026": 1200.0
+        "stock": 0,
+        "used_2026": 1200,
+        "unit": "LT"
       },
       "Finca Tropic": {
-        "stock": 700.0,
-        "used_2026": 500.0
+        "stock": 500,
+        "used_2026": 700,
+        "unit": "KG"
       }
     },
     "name": "Água Oxigenada 49,5% AGR",
     "manufacturer": "J. C. Ramalho & C.ª, S.A.",
     "category": "Desinfetante / químico",
-    "stock_total": 700.0,
-    "used_2026_total": 1700.0,
+    "stock_total": null,
+    "used_2026_total": null,
     "in_stock": true,
     "history_only": false,
     "documentation_status": "complete",
@@ -11276,6 +11526,69 @@
     },
     "safety_summary_status": "verified",
     "safety_summary_note": "Resumo operacional transcrito e conferido contra a fonte indicada em safety_source. A FDS/rótulo oficial prevalece sempre.",
-    "safety_schema_version": "v6-standard"
+    "safety_schema_version": "v6-standard",
+    "stock_reference": "2026-10-31",
+    "stock_unit_note": "Unidades divergentes nos inventários de origem; valores por empresa, sem conversão. A descrição do código na Extraissol está em branco; confirmar identidade do produto."
+  },
+  {
+    "code": "MP0000344",
+    "stock_name": "IDAI COBRE",
+    "unit": "LT",
+    "stock_family": "Fertilizante (FT) / Fitosanitario (EX)",
+    "companies": {
+      "Extraissol": {
+        "stock": 260,
+        "used_2026": 0,
+        "unit": "LT"
+      },
+      "Finca Tropic": {
+        "stock": 140,
+        "used_2026": 0,
+        "unit": "LT"
+      }
+    },
+    "name": "IDAI Cobre",
+    "manufacturer": "",
+    "category": "Por confirmar",
+    "documentation_status": "pending",
+    "documentation_note": "FDS e ficha técnica do produto comercial exato ainda não obtidas; confirmar fabricante, referência e rótulo. Não utilizar sem validação documental e autorização aplicável.",
+    "documents": [],
+    "external_documents": [],
+    "safety": {},
+    "avocado_authorization": {
+      "applicable": true,
+      "status": "pending",
+      "registration": "",
+      "note": "Classificação divergente entre inventários. Confirmar identidade, categoria e eventual autorização antes de utilizar.",
+      "source_url": ""
+    },
+    "permanent_url": "https://perseagrowers.github.io/seguranca-quimica/produto/MP0000344/",
+    "safety_summary_status": "pending",
+    "safety_summary_note": "FDS e ficha técnica do produto comercial exato ainda não obtidas; confirmar fabricante, referência e rótulo. Não utilizar sem validação documental e autorização aplicável.",
+    "safety_source": "",
+    "safety_schema_version": "v10",
+    "translations": {
+      "es": {
+        "avocado_note": "FDS y ficha técnica pendientes. Confirmar fabricante, referencia y etiqueta. No utilizar sin validación documental y autorización aplicable.",
+        "safety": {}
+      },
+      "en": {
+        "avocado_note": "SDS and technical data sheet pending. Confirm manufacturer, reference and label. Do not use without documentary validation and applicable authorisation.",
+        "safety": {}
+      },
+      "ne": {
+        "avocado_note": "सुरक्षा डेटा पाना र प्राविधिक विवरण बाँकी छन्। निर्माता, उत्पादन सन्दर्भ र लेबल पुष्टि गर्नुहोस्। कागजात र लागू अनुमति पुष्टि नगरी प्रयोग नगर्नुहोस्।",
+        "safety": {}
+      },
+      "hi": {
+        "avocado_note": "सुरक्षा डेटा शीट और तकनीकी शीट लंबित हैं। निर्माता, उत्पाद संदर्भ और लेबल की पुष्टि करें। दस्तावेज़ और लागू अनुमति की पुष्टि के बिना उपयोग न करें।",
+        "safety": {}
+      }
+    },
+    "in_stock": true,
+    "history_only": false,
+    "stock_total": 400,
+    "used_2026_total": 0,
+    "stock_reference": "2026-10-31"
   }
 ]
