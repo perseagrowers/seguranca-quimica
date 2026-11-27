@@ -11548,41 +11548,92 @@
       }
     },
     "name": "IDAI Cobre",
-    "manufacturer": "",
+    "manufacturer": "IDAI Nature, S.L. (a confirmar no rótulo)",
     "category": "Por confirmar",
-    "documentation_status": "pending",
-    "documentation_note": "FDS e ficha técnica do produto comercial exato ainda não obtidas; confirmar fabricante, referência e rótulo. Não utilizar sem validação documental e autorização aplicável.",
+    "documentation_status": "partial",
+    "documentation_note": "Referências identificadas como fertilizante corretor de cobre. FDS 2017 (ES) e 2023 (PL) apresentam classificações CLP diferentes; confirmar embalagem, composição e FDS atual em português com o fornecedor. Não utilizar até validação.",
     "documents": [],
-    "external_documents": [],
-    "safety": {},
+    "external_documents": [
+      {
+        "type": "FDS de referência (PL)",
+        "label": "IDAI Nature — 28/02/2023, v1 — confirmar correspondência",
+        "url": "https://dlaroslin.pl/zalacznik?file_name=karta-charakterystyki-Cobre.pdf&id_attachment=8926"
+      },
+      {
+        "type": "FDS histórica (ES)",
+        "label": "IDAI Nature — 20/12/2017, v4 — não usar como FDS atual",
+        "url": "https://www.hortocampo.com/sites/default/files/fichas-tecnicas/fds_-_idai_cobre_-_v4.pdf"
+      },
+      {
+        "type": "Ficha técnica de referência",
+        "label": "IDAI Cobre — corretor de carências de cobre (Anagra, Chile)",
+        "url": "https://www.anagra.cl/Content/Documento/IDAICOBRE.pdf"
+      }
+    ],
+    "safety": {
+      "hazards": [
+        "FDS de 2023 refere risco de queimaduras graves e lesões oculares; não utilizar até confirmação da FDS do lote."
+      ],
+      "precautions": [
+        "Evitar contacto, inalação e libertação ambiental. Não manusear sem validação da FDS e proteção adequada."
+      ]
+    },
     "avocado_authorization": {
       "applicable": true,
       "status": "pending",
       "registration": "",
-      "note": "Classificação divergente entre inventários. Confirmar identidade, categoria e eventual autorização antes de utilizar.",
+      "note": "Documentos de referência identificam fertilizante; inventários divergem. Confirmar rótulo e enquadramento aplicável antes de utilizar.",
       "source_url": ""
     },
     "permanent_url": "https://perseagrowers.github.io/seguranca-quimica/produto/MP0000344/",
     "safety_summary_status": "pending",
-    "safety_summary_note": "FDS e ficha técnica do produto comercial exato ainda não obtidas; confirmar fabricante, referência e rótulo. Não utilizar sem validação documental e autorização aplicável.",
-    "safety_source": "",
+    "safety_summary_note": "Classificações divergentes: FDS do lote em português necessária. A FDS de 2023 indica, entre outros, risco de queimaduras e lesões oculares graves. Não manusear sem validação e EPI adequado.",
+    "safety_source": "FDS de referência de 2023 e 2017; confirmar correspondência ao produto em stock.",
     "safety_schema_version": "v10",
     "translations": {
       "es": {
         "avocado_note": "FDS y ficha técnica pendientes. Confirmar fabricante, referencia y etiqueta. No utilizar sin validación documental y autorización aplicable.",
-        "safety": {}
+        "safety": {
+          "hazards": [
+            "La FDS de 2023 indica riesgo de quemaduras graves y lesiones oculares; no utilizar hasta confirmar la FDS del lote."
+          ],
+          "precautions": [
+            "Evitar contacto, inhalación y liberación al medio ambiente. No manipular sin FDS validada y protección adecuada."
+          ]
+        }
       },
       "en": {
         "avocado_note": "SDS and technical data sheet pending. Confirm manufacturer, reference and label. Do not use without documentary validation and applicable authorisation.",
-        "safety": {}
+        "safety": {
+          "hazards": [
+            "The 2023 SDS indicates a risk of severe burns and eye damage; do not use until the batch SDS is confirmed."
+          ],
+          "precautions": [
+            "Avoid contact, inhalation and environmental release. Do not handle without validated SDS and suitable protection."
+          ]
+        }
       },
       "ne": {
         "avocado_note": "सुरक्षा डेटा पाना र प्राविधिक विवरण बाँकी छन्। निर्माता, उत्पादन सन्दर्भ र लेबल पुष्टि गर्नुहोस्। कागजात र लागू अनुमति पुष्टि नगरी प्रयोग नगर्नुहोस्।",
-        "safety": {}
+        "safety": {
+          "hazards": [
+            "२०२३ को सुरक्षा डेटा पानाले गम्भीर जलन र आँखामा क्षतिको जोखिम देखाउँछ। सम्बन्धित उत्पादनको सुरक्षा डेटा पाना पुष्टि नभएसम्म प्रयोग नगर्नुहोस्।"
+          ],
+          "precautions": [
+            "सम्पर्क, सासमा प्रवेश र वातावरणमा चुहावट रोक्नुहोस्। पुष्टि गरिएको सुरक्षा डेटा पाना र उपयुक्त सुरक्षा बिना नचलाउनुहोस्।"
+          ]
+        }
       },
       "hi": {
         "avocado_note": "सुरक्षा डेटा शीट और तकनीकी शीट लंबित हैं। निर्माता, उत्पाद संदर्भ और लेबल की पुष्टि करें। दस्तावेज़ और लागू अनुमति की पुष्टि के बिना उपयोग न करें।",
-        "safety": {}
+        "safety": {
+          "hazards": [
+            "2023 की सुरक्षा डेटा शीट गंभीर जलन और आँखों की क्षति का जोखिम बताती है। संबंधित बैच की शीट की पुष्टि तक उपयोग न करें।"
+          ],
+          "precautions": [
+            "संपर्क, साँस में जाने और पर्यावरण में रिसाव से बचें। सत्यापित शीट और उचित सुरक्षा के बिना न संभालें।"
+          ]
+        }
       }
     },
     "in_stock": true,
